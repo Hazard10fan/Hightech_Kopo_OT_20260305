@@ -1,4 +1,4 @@
-# 🎓 Kopo_OT: 2026 High Tech OT Class Study Remind
+# 🎓 Kopo_OT: 2026 High Tech OT,Python Class Study Remind
 
 ### [1] 코딩할 때 중요한 것
 * **컴퓨팅 사고력**이 매우 중요함
